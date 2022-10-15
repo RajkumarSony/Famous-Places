@@ -1,4 +1,4 @@
-# Ooty - Anuj Kumar Sony
+# Ooty - Anuj Kumar
 
 ## About Tourist Place 
 Ooty is a gorgeous hill station in Tamil Nadu, and is considered a haven for nature lovers from all the country. Ensconced in the lap of nature, 
