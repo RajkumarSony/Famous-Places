@@ -4,7 +4,7 @@
 
 ---
 
-## Github Contribution Rules - Code ⚠️
+## Github Contribution Rules - Code (For Coder Only) ⚠️
 - You can change the user interface of Tourist-Guide project.
 - You add the details some tourist place in the above Tourist-Guide project.
 - You can re-correct the mistakes in the above Tourist-Guide project.
