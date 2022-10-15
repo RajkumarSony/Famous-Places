@@ -9,7 +9,7 @@
 - You add the details some tourist place in the above Tourist-Guide project.
 - You can re-correct the mistakes in the above Tourist-Guide project.
 ---
-## Github Contribution Rules - Non-Code ⚠️
+## Github Contribution Rules - Non-Code (For Everyone) ⚠️
 
 ### Task-1
 - Create a file inside ```../About-Tourist-Places/``` Folder followed by ```.md```.
