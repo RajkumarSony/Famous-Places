@@ -4,7 +4,12 @@
 
 ---
 
-## Github Contribution Rules ⚠️
+## Github Contribution Rules - Code ⚠️
+- You can change the user interface of Tourist-Guide project.
+- You add the details some tourist place in the above Tourist-Guide project.
+- You can re-correct the mistakes in the above Tourist-Guide project.
+---
+## Github Contribution Rules - Non-Code ⚠️
 
 ### Task-1
 - Create a file inside ```../About-Tourist-Places/``` Folder followed by ```.md```.
@@ -76,17 +81,24 @@ Write some paragraph here...
 
 ### How to Contribute to this repository
 
+📌 If you are beginner the follow the video Videos 📽️: 
+
+- [Hacktoberfest Intro](https://www.youtube.com/watch?v=mq_FIHdxmIk)
+- [How to pull request [Overview]](https://youtu.be/DIj2q02gvKs)
+- [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
+
+
 - Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
 - Clone the forked repository to your local machine.
 
 ```markdown
-git clone https://github.com/RajkumarSony/Tourist-Places.git
+git clone https://github.com/RajkumarSony/Famous-Places.git
 ```
 
 - Change the present working directory.
 
 ```markdown
-cd Tourist-Places
+cd Famous-Places
 ```
 
 - Add/Create your project to the specific folder as described in what you can contribute section.
