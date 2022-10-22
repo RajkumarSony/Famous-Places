@@ -1,4 +1,4 @@
-### Connect with me: https://github.com/ujjwalsingh-17
+### Connect with me :
 
 <img align="right" src="https://avatars3.githubusercontent.com/<>?size=100" width="100px;" alt="ujjwalsingh"/>
 
