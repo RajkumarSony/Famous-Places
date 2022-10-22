@@ -17,6 +17,6 @@ the sweetness, bitterness, sourness and heat of each main course would vary betw
 the whiteness of dairy products, the redness of tomatos, the green of leafy vegetables, the brown of pulses, and the colours of various spices, relishes and salad
 vegetables, are harmoniously part of a single thali. 
 
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FStatue_of_Unity&psig=AOvVaw1yiCR4lF9kpc5nE-jv1IGd&ust=1666504602530000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPCDwcqT8_oCFQAAAAAdAAAAABAD" alt="Staue of Unity"/>
+<img align="center" src="https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/11/02/Photos/Processed/statue_of_unity_sardar_patel-U205730969126CB--621x414@LiveMint.jpg" alt="Staue of Unity"/>
 
 <!--Example: <img align="center" src="https://lotustours.in/assets/img/taj/photo-room-detail-1.jpg" alt="Taj Mahal"/> -->
