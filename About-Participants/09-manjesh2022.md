@@ -8,6 +8,6 @@
 
 - 👨‍💻 My name : **MANJESH M**
 - 📫 Reach me: **manjesh.mariswamy@gmail.com**
-- 🔭 Connect with me: **[<manjesh2022>](https://github.com/manjesh2022/)** 
+- 🔭 Connect with me: **[manjesh2022](https://github.com/manjesh2022/)** 
 
 <!-- Connect with me: **[RajkumarSony](https://github.com/RajkumarSony/)** -->
