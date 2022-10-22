@@ -1,0 +1,13 @@
+# Mount Bromo - Berlianfatimah
+
+## About Tourist Place
+Mount Bromo is one of active volcanoes in Indonesia located in East Java and is nestled in the regencies of Probolinggo, Pasuruan, Lumajang and Malang. Bromo volcano which stands tall at 2329 m is the most iconic and the most hiked mountain in Indonesia. Mount Bromo is still one of the most active volcanoes in the world and there are areas that are blocked off from tourists due to its imminent danger. It sits inside the massive Tengger caldera (volcanic crater with a diameter approximately 10km), surrounded by the Laut Pasir (sea of sand) of fine volcanic sand.
+Mount Bromo is not as big as other volcanoes in Indonesia but the view of Bromo is amazing. The magnificent beauty of Mount Bromo makes tourists amazed. As an active volcano, Bromo is the main and popular tourist destination in East Java and always filled with domestic and international tourists even outside the holiday period. Foreign travellers usually visit the area on weekdays, meanwhile locals mostly travel there on weekends.
+The name Bromo is said to derive from Brama (Brahma), a Hindu God. Until now, Mt. Bromo is still considered a holy place for Hindus, making it a location for the annual Yadnya Kasada or Kasodo ceremony. People around Mount Bromo will celebrate the Kasodo festivals annually by presenting offerings like vegetables, chickens and money dedicated to the Gods and thrown into the crater of Mount Bromo as an entity of gratitude to the Almighty.
+The best time to visit Mount Bromo is June – August where there is less rain but more tourists. August is also the month for the Kasada/Kesodo festival for the Tengger people. But anytime is a good time to go Mount Bromo, only need to check out for local weather to make sure for the best clear sky for the sunrise experience. There are several spots to marvel at the mountain’s sunrise and the most well-known is Penanjakan 1 viewpoint. Situated at 2,700 meters above the sea level, it allows you to view a picturesque combination of Mount Bromo, Mount Batok and the peak of Mount Semeru.
+
+## About Their Foods
+Rib Soup- The oxtail soup is made with beef tail
+Meatballs- Meat balls are a type of food made from minced meat rolled into a ball-shaped ball. These meat balls are generally made from beef mixed with other ingredients such as breadcrumbs, sliced ​​onions, spices, and eggs.
+
+<img align="center" src="<https://petualang.travelingyuk.com/uploads/2018/11/Mount-Bromo-volcano-Gunung-Bromo-during-sunrise-from-viewpoint-on-Mount-Penanjakan-in-Bromo-Tengger-Semeru-National-Park-East-Java-Indonesia..jpg" alt="Mount Bromo"/>
