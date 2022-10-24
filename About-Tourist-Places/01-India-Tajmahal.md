@@ -15,6 +15,11 @@ visited by millions of tourists each year. The complex was designated a UNESCO W
 ## About Their Foods
 Agra is one of India’s most visited cities, with the Taj Mahal attracting people from all over the world. As a traveler, your first thought would be to find 
 the delicacies of the place you are traveling to. Likewise, people come to the city of Agra as a traveler with vast choices of restaurants to satiate their taste buds.
+The rich culture and heritage that this city has inherited from the Mughal rulers is not just restricted to the beautiful monuments but extends well to its food. The Mughlai fare with its share of kebabs and different preparations of meat is an added attraction for the tourists. 
+
+You can taste the delectable spread at most of the restaurants and hotels present in the city. The other most important thing is the famous petha of Agra, renowned all over the country. 
+
+The other well-known foods from this city are the tasty chaats, sweets and savoury dalmoth, which are easily available all over the city.
 
 The extensive list of lip-smacking dishes attracts Agra people, and the street foods are worth drooling over. Further, if you plan to spend your weekend here, 
 get ready to go on the gastronomical journey to scintillate your taste buds.
