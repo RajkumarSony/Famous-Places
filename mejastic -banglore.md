@@ -1,0 +1,16 @@
+# mejastic banglore - akshitha
+
+## About Tourist Place 
+Majestic is a popular locality situated in Bangalore and the pin code of this locality is 560001. As of now, 12 properties are available for sale in Majestic. It also has 3 properties available for rent. 1 projects are currently in ready to move stage. The Average price in this locality is Rs. 8424.0 per sq-ft. 3 BHK is available for sale in the price range of Rs. 1.35 Cr to 1.99 Cr in Majestic. Whereas the price range for rent of 3 BHK is Rs. 40,000 to 50,000. Some of the nearby localities to Majestic are Chickpete Chickpete,Sampangiram Nagar,Srirampuram.
+
+## About Their Food
+Rava Idli Namma Bengaluru is known for its innovation back then and even now. ...
+2. Ragi Mudde – Staple and Famous Food Among the Households of Bangalore ...
+3. Bisi Bele Bath – The Most Famous Veg Food In Bangalore and Karnataka ...
+4. Mangaluru Buns ...
+5. Obbattu ...
+More items
+
+<img align="center" src="https://i.ytimg.com/vi/PNCWix5v8AE/maxresdefault.jpg" alt="<place-name>"/>
+
+<!--Example: <img align="center" src="https://lotustours.in/assets/img/taj/photo-room-detail-1.jpg" alt="Taj Mahal"/> -->
