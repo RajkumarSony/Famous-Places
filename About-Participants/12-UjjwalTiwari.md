@@ -1,6 +1,6 @@
 ### Connect with me:
 
-<img align="right" src="https://avatars3.githubusercontent.com/<github-id>?size=100" width="100px;" alt=""/>
+<img align="right" src="[https://avatars3.githubusercontent.com/<github-id>?size=100](https://avatars.githubusercontent.com/u/100458211?s=96&v=4)" width="100px;" alt="Ujjwal Tiwari"/>
 
 - 🌱 Tourist Place : Paris.
 - 👯 Location : Paris, France.
