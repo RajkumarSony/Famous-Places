@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Welcome Contributers!!</h1>
 <h3 align="center">About Submit Just 4 PRs to earn SWAGS and Tshirts🔥</h3>
-<h6  align="center">Contribute anytime between October 1 and October 31</h6>
+<h6  align="center">Contribute anytime between September 26 and October 31, 2023</h6>
 
 ---
 
@@ -66,7 +66,7 @@ Write some paragraph here...
 ### Process are as follows :-
 
 - Login using github @ [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-- Create four valid pull requests (PRs) between October 1 and October 31.
+- Create four valid pull requests (PRs) between September 26 and October 31, 2023.
 
 - Follow the Hacktoberfest Maintainer here @ [LinkedIn](https://linkedin.com/in/RajkumarSony/), @ [Github](https://github.com/RajkumarSony), @ [Instagram](https://www.instagram.com/rajkumarsony_/)
 
