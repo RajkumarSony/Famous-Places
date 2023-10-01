@@ -1,6 +1,6 @@
-# The Red Fort - Vikash Kumar
+# The Red Fort - Neha Kumari
 
-## About Red Fort
+## About Red Fort ##
 The Red Fort, which is also known as the Lal Qila, was constructed by one of the most famous Mughal emperors, Shah Jahan.  
 Built on the banks of river Yamuna, the fortress-palace was designed by architect Ustad Ahmad Lahauri. It took 8 years and 10 months to build the magnificent fort.  
 The fort served as the royal residence of the Mughal emperors from 1648 to 1857. It took over the honor of royal residence from the famous Agra Fort when Shah Jahan decided to shift his capital from Agra to Delhi.
