@@ -7,6 +7,6 @@ France is among the globe’s oldest nations, the product of an alliance of duch
 ## About Their Foods
 Write some paragraph here...
 
-<img align="center" src="https://studyabroad.state.gov/sites/default/files/france_0.jpg" alt="<place-name>"/>
+<img align="center" src=""https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg alt="<place-name>"/>
 
 <!--Example: <img align="center" src="https://lotustours.in/assets/img/taj/photo-room-detail-1.jpg" alt="Taj Mahal"/> -->
