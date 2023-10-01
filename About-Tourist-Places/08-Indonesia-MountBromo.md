@@ -10,4 +10,4 @@ The best time to visit Mount Bromo is June – August where there is less rain b
 Rib Soup- The oxtail soup is made with beef tail
 Meatballs- Meat balls are a type of food made from minced meat rolled into a ball-shaped ball. These meat balls are generally made from beef mixed with other ingredients such as breadcrumbs, sliced ​​onions, spices, and eggs.
 
-<img align="center" src="<https://petualang.travelingyuk.com/uploads/2018/11/Mount-Bromo-volcano-Gunung-Bromo-during-sunrise-from-viewpoint-on-Mount-Penanjakan-in-Bromo-Tengger-Semeru-National-Park-East-Java-Indonesia..jpg" alt="Mount Bromo"/>
+<img align="center" src="https://petualang.travelingyuk.com/uploads/2018/11/Mount-Bromo-volcano-Gunung-Bromo-during-sunrise-from-viewpoint-on-Mount-Penanjakan-in-Bromo-Tengger-Semeru-National-Park-East-Java-Indonesia..jpg" alt="Mount Bromo"/>

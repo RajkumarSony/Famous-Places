@@ -15,6 +15,6 @@ Ragi Mudde – Staple and Famous Food Among the Households of Bangalore. Ragi Mu
 Bisi Bele Bath – The Most Famous Veg Food In Bangalore and Karnataka. A true example of …
 
 
-<img align="center" src="**http://2.bp.blogspot.com/_CFTkyF5GhPs/TPNPUw_Nl_I/AAAAAAAABrc/IaGA4mIVxcc/s1600/P2071095.JPG**" alt="<place-name>"/>
+<img align="center" src="http://2.bp.blogspot.com/_CFTkyF5GhPs/TPNPUw_Nl_I/AAAAAAAABrc/IaGA4mIVxcc/s1600/P2071095.JPG" alt="<place-name>"/>
 
 <!--Example: <img align="center" src="https://lotustours.in/assets/img/taj/photo-room-detail-1.jpg" alt="Taj Mahal"/> -->
