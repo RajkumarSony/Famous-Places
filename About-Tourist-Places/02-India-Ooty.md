@@ -3,7 +3,7 @@
 ## About Tourist Place 
 Ooty is a gorgeous hill station in Tamil Nadu, and is considered a haven for nature lovers from all the country. Ensconced in the lap of nature, 
 this town is surrounded on all sides by the towering Nilgiris, evergreen fir trees and of course, lakes small and large.
-
+Ooty is awesome place to visit in south india.
 ## About Their Foods
 As Ooty is one of the major tourist destinations in India, there are lots of well-known places for eating out. For tourists, there are so many restaurants 
 in and near Ooty to offer their fabulous services by providing South Indian cuisine and few of them also offer North Indian cuisine.
