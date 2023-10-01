@@ -2,7 +2,7 @@
 <h3 align="center">About Submit Just 4 PRs to earn SWAGS and Tshirts🔥</h3>
 <h6 align="center">Contribute anytime between September 26 and October 31, 2023</h6>
 <hr>
-<h2 align="center">Mindatory : Star ⭐ this Repo</h2>
+<h2 align="center">Mandatory : Star ⭐ this Repo</h2>
 
 ---
 
