@@ -11,7 +11,7 @@ In its harmonious proportions and its fluid incorporation of decorative elements
 a blend of Indian, Persian, and Islamic styles. Other attractions include twin mosque buildings (placed symmetrically on either side of the mausoleum), 
 lovely gardens, and a museum. One of the most beautiful structural compositions in the world, the Taj Mahal is also one of the world’s most iconic monuments, 
 visited by millions of tourists each year. The complex was designated a UNESCO World Heritage site in 1983.
-
+The Taj Mahal is a symbol of LOVE.
 ## About Their Foods
 Agra is one of India’s most visited cities, with the Taj Mahal attracting people from all over the world. As a traveler, your first thought would be to find 
 the delicacies of the place you are traveling to. Likewise, people come to the city of Agra as a traveler with vast choices of restaurants to satiate their taste buds.
