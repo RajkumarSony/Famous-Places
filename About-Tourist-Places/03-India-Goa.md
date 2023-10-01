@@ -1,4 +1,4 @@
-# Goa - Prince
+# Goa - Neha Kumari
 
 ## About Tourist Place 
 Goa is located on the west coast of India. The state shares its borders with Arabian Sea to the west, Maharashtra to the north, and Karnataka to the south and the east. 
