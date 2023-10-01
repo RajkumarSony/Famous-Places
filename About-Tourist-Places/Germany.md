@@ -1,4 +1,4 @@
-# Germany - Your Name
+# Germany - Samik Pandit
 
 ## About Tourist Place 
 Germany, officially Federal Republic of Germany, German Deutschland or Bundesrepublik Deutschland, country of north-central Europe, traversing the continent’s main physical divisions, from the outer ranges of the Alps northward across the varied landscape of the Central German Uplands and then across the North German Plain.
@@ -54,8 +54,8 @@ The detailed morphology of Germany is significant in providing local modificatio
 
 
 ## About Their Foods
-Write some paragraph here...
+Germany offers a rich tapestry of culinary delights that reflect its diverse regions and cultural influences. One can't help but savor the hearty comfort of bratwurst, sauerkraut, and pretzels, which are emblematic of German cuisine. The country is also renowned for its schnitzels, crispy breaded and fried meats often served with a zesty lemon wedge. A visit to Germany wouldn't be complete without indulging in a slice of Schwarzwälder Kirschtorte, the famous Black Forest cake, adorned with layers of chocolate sponge, cherries, and cream. Pair these culinary delights with a cold glass of Weissbier or a stein of classic German beer, and you'll experience the essence of Germany's rich and varied food culture
 
-<img align="center" src="https://lotustours.in/assets/img/taj/photo-room-detail-1.jpg" alt="<place-name>"/>
+<img align="center" src="https://baketotheroots.de/wp-content/uploads/2017/10/SC_170528_SchwarzwaelderKirsch.jpg" alt="Schwarzwälder Kirschtorte"/>
 
 <!--Example: <img align="center" src="https://lotustours.in/assets/img/taj/photo-room-detail-1.jpg" alt="Taj Mahal"/> -->
