@@ -13,7 +13,7 @@ installed capacity with 559.94 MW, whereas nuclear and renewable energy contribu
 achieve 100% rural electrification.
 
 ## About Their Foods
-The staple food of Goa is rice and fish curry. Most of the dishes incorporate coconuts, rice, fish, pork, meat and local spices like kokum. The cuisine of 
+The staple food of Goa is rice and fish curry. Most of the dishes incorporate coconuts, rice, fish, pork, meat, and local spices like kokum. The cuisine of 
 Goa is mostly dominated by seafood which includes shark, tuna, pomfret, and mackerel fish.
 
 <img align="center" src="https://static.toiimg.com/photo/76745146/Goa.jpg?width=748&resize=4" alt="Goa"/>
