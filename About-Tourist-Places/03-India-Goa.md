@@ -1,7 +1,7 @@
 # Goa - Prince
 
 ## About Tourist Place 
-Goa is located on the west coast of India. The state shares its borders with Arabian Sea to the west, Maharashtra to the north, and Karnataka to the south and the east. 
+Goa is located on the west coast of India. The state shares its borders with the Arabian Sea to the west, Maharashtra to the north, and Karnataka to the south and the east. 
 It is traditionally known as a tourist paradise for its natural scenery, unique beaches, and cultural diversity.
 
 Goa's economic growth is driven by the strong performance of its industrial sectors such as fishing, agriculture, tourism, and pharmaceuticals. At current prices, 
