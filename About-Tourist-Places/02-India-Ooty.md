@@ -1,7 +1,7 @@
 # Ooty - Anuj Kumar
 
 ## About Tourist Place 
-Ooty is a gorgeous hill station in Tamil Nadu and is considered a haven for nature lovers from all the country. Ensconced in the lap of nature, 
+Ooty is a gorgeous hill station in Tamil Nadu and is considered a haven for nature lovers from all over the country. Ensconced in the lap of nature, 
 this town is surrounded on all sides by the towering Nilgiris, evergreen fir trees and of course, lakes small and large.
 Ooty is awesome place to visit in south india.
 ## About Their Foods
