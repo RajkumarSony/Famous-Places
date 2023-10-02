@@ -1,4 +1,4 @@
-# Bodh Gaya - Anuj
+# Bodh Gaya - Neha Kumari
 
 ## About Tourist Place 
 Bodh Gaya is a Buddhist pilgrimage site in Gaya District of Bihar. Famous for the Mahabodhi Temple, It was here under the Bodhi tree that Gautama Buddha attained 
