@@ -5,7 +5,6 @@
 - 🌱 Tourist Place : Araku Valley.
 - 👯 Location : Vizag, Andhra Pradesh
 - 📄 Shared File : India-Araku Valley.md
-- 
 
 
 2.
