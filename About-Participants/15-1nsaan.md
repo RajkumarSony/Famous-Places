@@ -5,15 +5,20 @@
 - 🌱 Tourist Place : Araku Valley.
 - 👯 Location : Vizag, Andhra Pradesh
 - 📄 Shared File : India-Araku Valley.md
+
+
 2.
 - 🌱 Tourist Place : Jatayu Earth Center.
 - 👯 Location : Kerala
 - 📄 Shared File : India-Jatayu Earth Center.md
 
+
+
 3.
 - 🌱 Tourist Place : Munnar.
 - 👯 Location : Idukki,Kerala
 - 📄 Shared File : India-Munnar.md
+
 
 4.
 - 🌱 Tourist Place : Swami Vivekananda Rock Memorial.
