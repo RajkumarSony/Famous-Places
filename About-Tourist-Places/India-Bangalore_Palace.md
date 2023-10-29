@@ -2,8 +2,7 @@
 
 ## About Tourist Place 
 
-Bangalore Palace is a royal palace located in Bangalore, Karnataka, India, in an area that was owned by Rev. J. Garrett, the first principal of the Central 
-High School in Bangalore, now famous as Central College. The commencement of the construction of the palace is attributed to him.
+Bangalore Palace is a royal palace located in Bangalore, Karnataka, India, in an area that was owned by Rev. J. Garrett, the first principal of the Central High School in Bangalore, now famous as Central College. The commencement of the construction of the palace is attributed to him.
 
 ## About Their Foods
 You can find a lot of hotels serving Continental, Chinese and other international cuisines in Bangalore. But, you should try these ten iconic foods of Bangalore, 
