@@ -3,8 +3,7 @@
 ## About Tourist Place 
 Bodh Gaya is a Buddhist pilgrimage site in Gaya District of Bihar. Famous for the Mahabodhi Temple, It was here under the Bodhi tree that Gautama Buddha attained 
 enlightenment. It is now one of the UNESCO World Heritage Sites, and a lot of foreign countries, including Japan and China, have helped the Indian government in 
-building facilities for the Buddhist pilgrims. The place is bustling with pilgrims all through the year from India and abroad who come to pay their homage in 
-monasteries, temples and remnants of Bodhi Tree.
+building facilities for the Buddhist pilgrims. The place is bustling with pilgrims all through the year from India and abroad who come to pay their homage in monasteries, temples and remnants of Bodhi Tree.
 
 Located near the river Neranjana, Bodh Gaya was earlier known as Uruwela. It was also known as Sambodhi, Vajrasana or Mahabodhi until the 18th century CE. 
 It is one of the four important Buddhist sites that include: Kushinagar, Lumbini and Sarnath.
