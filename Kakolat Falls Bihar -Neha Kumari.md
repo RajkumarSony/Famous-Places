@@ -7,7 +7,6 @@ Kakolat waterfall is located on the border of Bihar and is 33km from Nawada and 
 Kakolat falls is a major tourist spot in Southern Bihar, with many festivals and shows being hosted nearby. People normally bathe in its cold waters, which stay that way all year long. Kakolat is renowned for its scenic waters and landscapes.
 
 ## About Their Foods
-Write some paragraph here...
 Bihar is famous for its Local food and IAS it's food is prepared from mustard oil which suits the Bihar and it brings magic to the authenticity of its food. The most famous undoubtedly is Ahuna Matan or Champaran Meat and Litti chicken
 
 
