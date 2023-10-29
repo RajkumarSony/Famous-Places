@@ -10,7 +10,7 @@ The largest main stupa in the center also crowns the building, surrounded by thr
 
 ## About Their Foods
 
-Senerek Soup, where the location is only a few minutes from Borobudur Temple. This food is made from beef ribs, and there is also red bean soup given other pieces of vegetables, as well as pieces of meat.
+Senerek Soup, where the location is only a few minutes from Borobudur Temple. This food is made from beef ribs, and, there is also red bean soup given other pieces of vegetables, as well as pieces of meat.
 
 The appearance of the soup is clear, suitable for eating at lunch or dinner. Senerek soup is also one of the most popular specialties from the city of Magelang, especially around Borobudur Temple.
 
