@@ -2,8 +2,7 @@
 
 ## About Tourist Place 
 Golden Temple is located in the heart of Amritsar, the Golden Temple is the most admired gurudwara in the country. The Golden Temple namely Sri Harmandir Sahib 
-serves as an epitome of glory, harmony and equality. Sri Harmandir Sahib played an integral role in the rich history of Punjab which makes this religious heritage 
-the holiest pilgrimage site for the Sikhs.
+serves as an epitome of glory, harmony and equality. Sri Harmandir Sahib played an integral role in the rich history of Punjab which makes this religious heritage the holiest pilgrimage site for the Sikhs.
 
 Golden Temple is a seamless blend of jaw-dropping architecture, warm hospitality and captivating peace. It attracts devotees from different corners of the globe 
 who seek blessing and spiritual solace. This magnificent structure with sparkling golden walls and intricate designs is an absolute treat for the eyes. Standing 
