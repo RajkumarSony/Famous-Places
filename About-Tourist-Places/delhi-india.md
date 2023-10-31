@@ -11,6 +11,4 @@ Paranthas Apart from being a household start and breakfast option for Delhiites,
 Butter Chicken Introduced in Delhi in the year 1950, this celebrated delicacy is one of the most popular dishes of the capital. ...
 Chaat ...
 
-<img align="center" src"https://www.mistay.in/travel-blog/content/images/2020/07/travel-4813658_1920.jpg" alt="<place-name>"/>
-
-<!--Example: <img align="center" src="https://lotustours.in/assets/img/taj/photo-room-detail-1.jpg" alt="Taj Mahal"/> -->
+<img align="center" src="https://www.mistay.in/travel-blog/content/images/2020/07/travel-4813658_1920.jpg" alt="Delhi"/>
